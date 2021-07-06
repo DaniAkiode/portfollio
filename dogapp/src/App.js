@@ -11,7 +11,7 @@ function App() {
 */
   return (
     <div className="App">
-        <img src={} />
+        <img />
         <button>Click for new picture</button>
     </div>
   );
