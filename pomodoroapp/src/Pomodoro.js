@@ -17,7 +17,12 @@ function Pomodoro() {
                     setSeconds(59);
                     setMinutes(minutes - 1);
                 } else {
-                    
+                    let minutes = displayMessage ? 24 : 4;
+                    let seconds = 59;
+
+                    setSeconds(seconds);
+                    setMinutes(minutes);
+                    setDisplayMessage(!displayMessage);
                 }
             }else{
                 setSeconds(seconds - 1);
