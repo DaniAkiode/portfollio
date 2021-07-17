@@ -1,0 +1,6 @@
+--Source--
+Dyck, B., 2021. 16:53 / 17:43 Java - Reading Files: Getting Number of Lines, Number of Characters, or Number of Words. [video] Available at: <https://www.youtube.com/watch?v=pi7eOUSObk0&list=PLUAP7Jc-AKBEfAAzysADVV-pW9AiKafIb&index=7&t=116s&ab_channel=BrianDyck> [Accessed 1 July 2021].
+--Intructions--
+1.Unzip the folder.
+2.Install Eclipse. 
+2.Run on Eclipse.  
